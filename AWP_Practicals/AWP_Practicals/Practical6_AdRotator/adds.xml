@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/ad1.png</ImageUrl>
+    <NavigateUrl>https://www.example.com/fresh-soap</NavigateUrl>
+    <AlternateText>Fresh Soap</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/ad2.png</ImageUrl>
+    <NavigateUrl>https://www.example.com/cool-drink</NavigateUrl>
+    <AlternateText>Cool Drink</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/ad3.png</ImageUrl>
+    <NavigateUrl>https://www.example.com/tasty-snacks</NavigateUrl>
+    <AlternateText>Tasty Snacks</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+</Advertisements>
